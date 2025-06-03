@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+body {
+    background-color: blueviolet;
+}
+
+main {
+    height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div {
+    text-align: center;
+}
+
+h2 {
+    color: #fff;
+    font-size: 4rem;
+}
